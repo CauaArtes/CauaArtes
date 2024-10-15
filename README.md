@@ -1,6 +1,6 @@
 Olá, Eu sou o Cauã! 👋
 
-[![Cauã GitHub stats](https://github-readme-stats.vercel.app/api?username=CauaArtes)](https://github.com/anuraghazra/github-readme-stats)
+![Cauã GitHub stats](https://github-readme-stats.vercel.app/api?username=CauaArtes&theme=dark&show_icons=true)
 
 Técnologias mais utilizadas:
 
