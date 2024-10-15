@@ -1,4 +1,4 @@
-Olá, Eu sou o Cauã! 👋
+## Olá, Eu sou o Cauã! 👋
 
 ![Cauã GitHub stats](https://github-readme-stats.vercel.app/api?username=CauaArtes&theme=dark&show_icons=true)
 
