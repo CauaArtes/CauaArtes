@@ -1,4 +1,7 @@
-## 👋 Olá, Eu sou o Cauã! 
+## 👋 Hi, There! 
+<div>
+  Olá, Me chamo Cauã Barros, Sou um desenvolvedor de software apaixonado, comecei a programar com 14 anos com VBA no excel quando fiz meu técnico no Senai, ali já automatizava funções dentro do excel e surgiu essa vontade de expandir meus conhecimentos por programação!
+<div/>
 
 ## 🚀 Expertise
 <div>
@@ -14,7 +17,9 @@
   <img align="center" alt="Cauã-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cauã-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Cauã-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Cauã-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img align="center" alt="Cauã-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img align="center" alt="Cauã-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="Cauã-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
 </div>
 
 
