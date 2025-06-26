@@ -1,12 +1,13 @@
 ## 👋 Hi, There! 
 <div>
-  Olá, Me chamo Cauã Barros, Sou um desenvolvedor de software apaixonado, comecei a programar com 14 anos com VBA no excel quando fiz meu técnico no Senai, ali já automatizava funções dentro do excel e surgiu essa vontade de expandir meus conhecimentos por programação!
-<div/>
+  Olá! Me chamo Cauã Barros e sou um desenvolvedor de software apaixonado por tecnologia. Comecei a programar aos 14 anos com VBA no Excel, durante meu curso técnico no SENAI. Naquela época, eu já automatizava tarefas dentro do Excel, e foi aí que surgiu minha paixão por programação e a vontade de expandir meus conhecimentos.
+</div>
 
 ## 🚀 Expertise
+
 <div>
-  Atualmente estou cursando análise e desenvolvimento de sistemas e pretendo cursar uma pós graduação em engenharia de software, sou fascinado por projetos automatizados e cientificos, amo desenvolver em back-end,api, banco de dados e cloud.
-<div/>
+  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e tenho planos de fazer uma pós-graduação em Engenharia de Software. Sou fascinado por projetos automatizados e científicos, e tenho grande interesse em desenvolvimento back-end, APIs, bancos de dados e computação em nuvem.
+</div>
 
 ## 💻 Tech Stack:
 <div>
