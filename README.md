@@ -2,7 +2,7 @@
 <div> Hello! My name is Cauã Barros, and I’m a passionate software developer. I started programming at the age of 14 with VBA in Excel during my technical course at SENAI. Back then, I was already automating tasks in Excel, and that’s when my passion for programming began. Since then, I’ve been eager to expand my skills and explore new technologies in software development. </div>
 
 ## 🚀 Skills
-<div> I’m currently pursuing a degree in **Systems Analysis and Development** and plan to continue with a **postgraduate course in Software Engineering**. I’m passionate about **automation and data-driven projects**, with a strong interest in **back-end development, APIs, databases, and cloud computing**. </div>
+<div> I’m currently pursuing a degree in Systems Analysis and Development and plan to continue with a postgraduate course in Software Engineering. I’m passionate about automation and data-driven projects, with a strong interest in back-end development, APIs, databases, and cloud computing**. </div>
 
 ## 💻 Tech Stack:
 <div>
