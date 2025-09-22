@@ -1,13 +1,8 @@
-## 👋 Hi, There! 
-<div>
-  Olá! Me chamo Cauã Barros e sou um desenvolvedor de software apaixonado por tecnologia. Comecei a programar aos 14 anos com VBA no Excel, durante meu curso técnico no SENAI. Naquela época, eu já automatizava tarefas dentro do Excel, e foi aí que surgiu minha paixão por programação e a vontade de expandir meus conhecimentos.
-</div>
+## 👋 Hi there!
+<div> Hello! My name is Cauã Barros, and I’m a passionate software developer. I started programming at the age of 14 with VBA in Excel during my technical course at SENAI. Back then, I was already automating tasks in Excel, and that’s when my passion for programming began. Since then, I’ve been eager to expand my skills and explore new technologies in software development. </div>
 
-## 🚀 Expertise
-
-<div>
-  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e tenho planos de fazer uma pós-graduação em Engenharia de Software. Sou fascinado por projetos automatizados e científicos, e tenho grande interesse em desenvolvimento back-end, APIs, bancos de dados e computação em nuvem.
-</div>
+## 🚀 Skills
+<div> I’m currently pursuing a degree in **Systems Analysis and Development** and plan to continue with a **postgraduate course in Software Engineering**. I’m passionate about **automation and data-driven projects**, with a strong interest in **back-end development, APIs, databases, and cloud computing**. </div>
 
 ## 💻 Tech Stack:
 <div>
@@ -18,6 +13,7 @@
   <img align="center" alt="Cauã-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cauã-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Cauã-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Cauã-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Cauã-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="Cauã-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="Cauã-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
